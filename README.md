@@ -15,7 +15,7 @@ DSLRDNet: Addressing Multiple Salient Object Detection via Dual-Space Long-Range
 5. Start to train with `python3 run.py --mode train`
 
 **For testing:**
-1. Download the [pretrained models] (http://cvl.cs.nott.ac.uk/resources/dslrd.pretrained.zip) (UoN server).
+1. Download the [pretrained models](http://cvl.cs.nott.ac.uk/resources/dslrd.pretrained.zip) (UoN server).
 2. Change the data path in dataset.py
 3. Change the test settings in run.py.
 4. Generate saliency maps with `python3 run.py --mode test --sal_mode m`, where 'm' demonstrates the MSOD dataset.
