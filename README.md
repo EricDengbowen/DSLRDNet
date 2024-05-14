@@ -1,6 +1,6 @@
 # DSLRDNet
 
-DSLRDNet: Addressing Multiple Salient Object Detection via Dual-Space Long-Range Dependencies
+This is the official implementation for the paper "Addressing Multiple Salient Object Detection via Dual-Space Long-Range Dependencies", accepted by the Journal of Computer Vision and Image Understanding (CVIU 2023).
 
 **Prerequisites:**
 1. Pytorch 1.2.0
@@ -23,4 +23,15 @@ DSLRDNet: Addressing Multiple Salient Object Detection via Dual-Space Long-Range
 
 **Datasets and results:**
 
-[MSOD dataset](http://cvl.cs.nott.ac.uk/resources/msod.dataset.zip) || [Generated Saliency Maps](http://cvl.cs.nott.ac.uk/resources/saliency.maps.zip) (Copy the url link to your broswer)
+[MSOD dataset](http://cvl.cs.nott.ac.uk/resources/msod.dataset.zip) || [Generated Saliency Maps](http://cvl.cs.nott.ac.uk/resources/saliency.maps.zip) (Copy the url link to your browser)
+
+**Cite us:**
+@article{deng2023addressing,
+  title={Addressing multiple salient object detection via dual-space long-range dependencies},
+  author={Deng, Bowen and French, Andrew P and Pound, Michael P},
+  journal={Computer Vision and Image Understanding},
+  volume={235},
+  pages={103776},
+  year={2023},
+  publisher={Elsevier}
+}
