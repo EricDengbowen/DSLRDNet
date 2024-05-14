@@ -25,7 +25,8 @@ This is the official implementation for the paper "Addressing Multiple Salient O
 
 [MSOD dataset](http://cvl.cs.nott.ac.uk/resources/msod.dataset.zip) || [Generated Saliency Maps](http://cvl.cs.nott.ac.uk/resources/saliency.maps.zip) (Copy the url link to your browser)
 
-**Cite us:**
+**Citing DSLRDNet:**
+```bibtex
 @article{deng2023addressing,
   title={Addressing multiple salient object detection via dual-space long-range dependencies},
   author={Deng, Bowen and French, Andrew P and Pound, Michael P},
