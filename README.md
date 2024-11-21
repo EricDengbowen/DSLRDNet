@@ -23,7 +23,7 @@ This is the official implementation for the paper "Addressing Multiple Salient O
 
 **Datasets and results:**
 
-[MSOD dataset](https://drive.google.com/file/d/1vzaYNhc8nIS_U4xataDVOqedES6bXlNc/view?usp=drive_link) || [Generated Saliency Maps](https://drive.google.com/file/d/1JHD6ilTtPWvWjMOn4siox9-fyv3UlRSI/view?usp=sharing)  (Goole Drive)
+[MSOD dataset](https://drive.google.com/file/d/1vzaYNhc8nIS_U4xataDVOqedES6bXlNc/view?usp=drive_link) || [Generated Saliency Maps](https://drive.google.com/file/d/1JHD6ilTtPWvWjMOn4siox9-fyv3UlRSI/view?usp=sharing)  (Google Drive)
 
 **Citing DSLRDNet:**
 ```bibtex
