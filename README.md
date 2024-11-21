@@ -15,7 +15,7 @@ This is the official implementation for the paper "Addressing Multiple Salient O
 5. Start to train with `python3 run.py --mode train`
 
 **For testing:**
-1. Download the [pretrained models](http://cvl.cs.nott.ac.uk/resources/dslrd.pretrained.zip) (UoN server-Copy the url link to your broswer).
+1. Download the [pretrained models](https://drive.google.com/file/d/1AdcqpcwIzfLTu4qkUmpPhYKNFqDMv3Sq/view?usp=sharing) (Google Drive).
 2. Change the data path in dataset.py
 3. Change the test settings in run.py.
 4. Generate saliency maps with `python3 run.py --mode test --sal_mode m`, where 'm' demonstrates the MSOD dataset.
@@ -23,7 +23,7 @@ This is the official implementation for the paper "Addressing Multiple Salient O
 
 **Datasets and results:**
 
-[MSOD dataset](http://cvl.cs.nott.ac.uk/resources/msod.dataset.zip) || [Generated Saliency Maps](http://cvl.cs.nott.ac.uk/resources/saliency.maps.zip) (Copy the url link to your browser)
+[MSOD dataset](https://drive.google.com/file/d/1vzaYNhc8nIS_U4xataDVOqedES6bXlNc/view?usp=drive_link) || [Generated Saliency Maps](https://drive.google.com/file/d/1JHD6ilTtPWvWjMOn4siox9-fyv3UlRSI/view?usp=sharing)  (Goole Drive)
 
 **Citing DSLRDNet:**
 ```bibtex
